@@ -10,12 +10,13 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
+  <!-- <link href="assets/img/favicon.png" rel="icon"> -->
+  <link href="assets/img/letter-k.png" rel="icon">
+  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -63,7 +64,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Mustapha Khalid </h1>
+      <h1> Khalid Mustapha</h1>
       <p>I'm a <span class="typed" data-typed-items=", Developer., Freelancer., Student."></span> </p>
     </div>
   </section><!-- End Hero -->
@@ -76,10 +77,10 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am a First-year Civil Engineering Student , aspiring web developer with two years experience in Back-end web development and database management. I am currently in the University of Ilorin where I am working on my Bachelor's Degree. 
+          <p>I am a First-year Civil Engineering Student and  aspiring web developer with two years experience in Back-end web development and database management. I am currently in the University of Ilorin where I am working on my Bachelor's Degree. 
 
 
-          My language skills include HTML5,CSS,PHP and MySQL and I am currently taking courses on Javascript
+          My language skills include HTML5,CSS,PHP and MySQL , I am currently taking courses on Javascript
           at Sololearn and Free Code Camp.</p>
         </div>
 
@@ -95,7 +96,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>18 May 2005</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>18th May .</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 816 4243 761</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibadan,Oyo State, Nigeria</span></li>
@@ -104,8 +105,8 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span><?php echo (date('Y')-2005);?></span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor's Degree</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>khalidmusty1234@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor's Degree (Ongoing)</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>khalidmusty1234@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Part-time</span></li>
                 </ul>
               </div>
@@ -164,7 +165,7 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Here are the skills I have acquired over-time and my level of proficiency in them:</p>
+          <p>Here are the skills I have acquired over time and my level of proficiency in them:</p>
         </div>
 
         <div class="row skills-content">
@@ -293,12 +294,13 @@
             <p class="description">Proficient in HTML5 and CSS to create responsive and user-friendly website interfaces.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class="bi bi-binoculars"></i></div>
+            <div class="icon"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAn1JREFUSEvFlr2yjEEQhp8j93OuACEJIjI/N4ArQEKIRMkOkRIhUgiQyXADfkIRIiE3oFAugHq2pk/1mZ39ZnZrq05XbZ3dOTP99vt290xvsEu2sUu4LAt8ADgGHAf8rv0GvgAflyExCnwGuA5cmHBuAG+Al8CHXhA94EPAgw5gC+MFcLOo0YxhClg53ydJ/xRGspKRDDWDc69qXEooP4CLJQ1z4IuAa1DluzHFIAXxEDif8n+2Bd4Ctmg+FyaevwIoXdjVosJj4G9ZrNcM0hRpMj9RB90CVsqI2DzJIOwecLv8MA3ngNaaWzK4il3OetfAVq8OtbeNonoHKJ32D9gDtNYCI5OQtW03sxpYSaNADheZcqBK+qQsPAWuAa21OGPhfS8/drCugWWh5U1KeRJ4BQh2BNgHfEoRtdZq1nbBZotxltk2UKbMxjNHgW9ZgoHvttnrss80zS6XzDgXQ+TjFnA/OT9VMR3AnfV5yL1drBn4DrBV5X5vKTLVeFZyOgJW74kU3gXE2cG4BbwMiP1/utxi9q5dYV5d/1UcNYGz1Lmi6+JqBeNZ1YoXK/aYT6X2ozVzvGpxeTE8H5DGZ1OMmdXtpDT7Uzv1ikuGFo5/fUSsYFkKYEDB1IvDVMbD0r1AfnaKK7ONFhwgP884y20f62zKVi7I1iORr836kaiDWBtjHZsvc3KwoFixjxbQzq3iHvcO2dQgYJFYaJqyy97+rM199q/BeuMNWW/0ETCY69A0uPa1BJGHhtYzujCI3rCnYweBPEstclZPKpPMe8Bx2BnM/NmnIX92PDdh9PQeBc5+bLkY6L0QzPH2ZNEDjP+vAjzqey1SrwUsO/kPYCCSHyUxS7UAAAAASUVORK5CYII="/></div>
             <h4 class="title"><a href="">Web Design</a></h4>
             <p class="description">Skilled in creating visually appealing website designs that align with the client's brand and meet user needs.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class="bi bi-brightness-high"></i></div>
+          
+            <div class="icon"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAdBJREFUSEvllo0txEEQxd9VgArogA5QASpABXSADqgAFaACdEAHdEAF5JfsyGT/+/2XXMQkl8vldufNe/O1Cy3JFkvC1Z8CXpW0GSn1KumjR70WxgDtSdqXtCOJ3ykD+EnSvaSHWiA14HNJJwWwHEmCuJR0kTuQA4bVo6Qtd/E9MHoL394nSmwEVVbcHy+SdlPsc8A3kg6DA/IHcyRsMVLCeauDW0lH8cUcMFIRObnC0YgRKLWBr7VW4K9wkEvHHWzNP8Feu9qYEMwxNmBzRK6QHwXIccrIMQyR1dcGZ4eBYyDaJi6uUjq6ga9CjmCx3phoqh916AxacYgxfUiFYsjnPz4OUuE//Me9s98AbiT8c2wWMCwOCgWVC4ZCu3NF1p1jHNNS5IxBQCAlIxUMHmrCz/QhYA9EK5VGJkxT1g1M3xL5dmeCn4NS9PWsqrYFYFWd2sdW1YxKVJlVXL6dOkmPAduSIHqqesRsSXym9nnLWkRCZCPfLcaCYHDYvO5aixQU89jnEhUsf6lZbXXg24hdziNh8h5refqcht3cwtbOIC9PHxu3k7s1YC7AAPnsseefNt4hYPbYQ5niq7MFOMUU+bzF0lfVGQWuOq4d+H/A32uVaR/ZpWx/AAAAAElFTkSuQmCC"/></div>
             <h4 class="title"><a href="">Database Management</a></h4>
             <p class="description">Experienced in designing and managing databases, including data storage, retrieval, and analysis, using various tools such as SQL.</p>
           </div>
@@ -336,7 +338,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p><a href="mailto:khalidmusty1234@gmail.com">mailto:khalidmusty1234@gmail.com</a></p>
+                <p><a href="mailto:khalidmusty1234@gmail.com">khalidmusty1234@gmail.com</a></p>
               </div>
 
               <div class="phone">
@@ -349,7 +351,7 @@
             </div>
           
           </div>
-
+                
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
