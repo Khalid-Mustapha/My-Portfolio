@@ -97,7 +97,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>18th May .</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                 
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+234 816 4243 761</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Ibadan,Oyo State, Nigeria</span></li>
                 </ul>
