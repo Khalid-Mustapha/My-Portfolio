@@ -39,10 +39,10 @@
     <div class="d-flex flex-column">
       
       <div class="profile">
-        <img src="profile.jpg" alt="display" class="img-fluid rounded-circle">
+        <img src="Twitter pfp.jpg" alt="display" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Khalid Mustapha</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://twitter.com/That_weird__kid" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://x.com/KhalidDMusty" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="https://www.linkedin.com/in/khalid-mustapha" class="linkedin"><i class="bx bxl-linkedin"></i></a>
           <a href="https://github.com/That-weird-kid" class="github"><i class="bx bxl-github"></i></a>
         </div>
@@ -65,7 +65,7 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
       <h1> Khalid Mustapha</h1>
-      <p>I'm a <span class="typed" data-typed-items=", Developer., Freelancer., Student."></span> </p>
+      <p>I'm a <span class="typed" data-typed-items=", Developer., Writer., Freelancer."></span> </p>
     </div>
   </section><!-- End Hero -->
 
@@ -77,7 +77,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>I am a First-year Civil Engineering Student and  aspiring web developer with two years experience in Back-end web development and database management. I am currently in the University of Ilorin where I am working on my Bachelor's Degree. 
+          <p>I am a  Civil Engineering Student and  aspiring web developer with two years experience in Back-end web development and database management. I am currently in the University of Ilorin where I am working on my Bachelor's Degree. 
 
 
           My language skills include HTML5,CSS,PHP and MySQL , I am currently taking courses on Javascript
@@ -86,7 +86,7 @@
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="profile.jpg" class="img-fluid" alt="">
+            <img src="Twitter pfp.jpg" class="img-fluid" alt="work">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3> Web Developer.</h3>
